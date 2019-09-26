@@ -68,6 +68,7 @@ h3{
 font-family: Mosk;
 font-size: 50px;
 line-height: 88.1%;
+top: 0px;
 /* or 63px */
 
 text-transform: capitalize;
@@ -120,4 +121,11 @@ box-sizing: border-box;
 .responsive {
   width: 100%;
   height: auto;
+}
+/* style the horizontal list */
+ul{
+	position: relative;
+	font-family: mosk;
+	font-size: 50px;
+	color: white;
 }
